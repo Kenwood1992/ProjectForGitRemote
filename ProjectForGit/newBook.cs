@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ProjectForGit
 {
-    internal class Book
+    internal class newBook
     {
+        //Добавил строчку
+        public int id;
+
     }
 }
