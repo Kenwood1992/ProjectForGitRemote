@@ -6,4 +6,5 @@ Console.WriteLine("Hello, World!");
 
 //добавил строчку перевод на русский
 Console.WriteLine("Привет, Мир!"); 
+// Сделал подзадачу 5
 
