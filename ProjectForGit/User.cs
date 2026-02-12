@@ -8,5 +8,6 @@ namespace ProjectForGit
 {
     internal class User
     {
+        //новая строчка в User для проверки изменений в коммитах
     }
 }
