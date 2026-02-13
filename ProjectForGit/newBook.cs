@@ -10,6 +10,7 @@ namespace ProjectForGit
     {
         //Добавил строчку
         public int id;
+        public string name;
 
     }
 }
