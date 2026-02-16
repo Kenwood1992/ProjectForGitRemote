@@ -10,4 +10,5 @@ namespace ProjectForGit
     {
         public Book() { }
     }
+    //изменения для новой ветки
 }
