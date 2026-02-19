@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectForGit
 {
-    internal class MyFile
+    internal class MyFile1
     {
     }
 }
