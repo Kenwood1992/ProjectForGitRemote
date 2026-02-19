@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace ProjectForGit
 {
     internal class Class111
+    internal class Class12
     {
     }
 }
